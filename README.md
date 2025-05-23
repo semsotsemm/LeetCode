@@ -12,7 +12,7 @@
 
 ## 🏆 Solved Problems
 ### ✅ Easy Problems  
-🔹 [Two Sum](tree/main/Easy/Two_Sum)  
+🔹 [Two Sum](Easy/Two_Sum)  
 🔹 [Palindrome Number](problems/palindrome_number.md)  
 🔹 [Roman to Integer](problems/roman_to_integer.md)  
 
