@@ -3,7 +3,7 @@
 <p align="center">
     Welcome to my <strong>LeetCode Solutions Repository</strong>!  <br>
     Here, I document my approach to solving coding challenges, including problem descriptions, examples, and implementations.<br>
-  ## 🔗 My LeetCode Profile <br>
+  🔗 My LeetCode Profile <br>
   Want to check out more of my LeetCode solutions? Visit my profile:  <br>
   [LeetCode - semsotsemm]: https://leetcode.com/u/4qkkr1pWqo/  <br>
 </p>
