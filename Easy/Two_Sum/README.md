@@ -1,9 +1,9 @@
 <h1 align="center">🔹 1. Two Sum</h1>
 
 <div align="center">
-  <strong>Status:</strong> ✅ Solved  
-  <strong>Difficulty:</strong> 🟢 Easy  
-  <strong>Topics:</strong> Arrays, Hash Table  
+  <strong>Status:</strong> ✅ Solved  <br>
+  <strong>Difficulty:</strong> 🟢 Easy  <br>
+  <strong>Topics:</strong> Arrays, Hash Table  <br>
 </div>
 
 ---
@@ -18,7 +18,7 @@
 ---
 
 ### 📌 Test Cases:
-```python
+```C++
 # Example 1:
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
