@@ -11,18 +11,18 @@
 ---
 
 ## 🏆 Solved Problems
-### ✅ Easy Problems  
-🔹 [Two Sum](Easy/Two_Sum)  
-🔹 [Palindrome Number](problems/palindrome_number.md)  
-🔹 [Roman to Integer](problems/roman_to_integer.md)  
+### 🟢Easy Problems  
+🟢[Two Sum](Easy/Two_Sum)  
+🟢[Palindrome Number](problems/palindrome_number.md)  
+🟢[Roman to Integer](problems/roman_to_integer.md)  
 
-### 🔶 Medium Problems  
-🔸 [Add Two Numbers](problems/add_two_numbers.md)  
-🔸 [Longest Substring Without Repeating Characters](problems/longest_substring.md)  
+### 🟡Medium Problems  
+🟡[Add Two Numbers](Medium/Add Two Numbers)  
+🟡[Longest Substring Without Repeating Characters](problems/longest_substring.md)  
 
-### 🔴 Hard Problems  
-🔴 [Median of Two Sorted Arrays](problems/median_sorted_arrays.md)  
-🔴 [Merge k Sorted Lists](problems/merge_k_sorted_lists.md)  
+### 🔴Hard Problems  
+🔴[Median of Two Sorted Arrays](problems/median_sorted_arrays.md)  
+🔴[Merge k Sorted Lists](problems/merge_k_sorted_lists.md)  
 
 ---
 
