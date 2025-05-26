@@ -1,6 +1,6 @@
 <h1 align="center">🔹 2. Add Two Numbers</h1>
 
-<div align="center"> <strong>Status:</strong> ✅ Solved <br> <strong>Difficulty:</strong> 🟡 Medium <br> <strong>Topics:</strong> Linked List, Math <br> </div>
+<div align="center"> <strong>Status:</strong> ✅Solved <br> <strong>Difficulty:</strong> 🔶Medium <br> <strong>Topics:</strong> Linked List, Math <br> </div>
 
 📝 Problem Description
 > You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
