@@ -17,7 +17,7 @@
 🟢[Roman to Integer](problems/roman_to_integer.md)  
 
 ### 🟡Medium Problems  
-🟡[Add Two Numbers](Medium/Add Two Numbers)  
+🟡[Add Two Numbers](Medium/Add_Two_Numbers)  
 🟡[Longest Substring Without Repeating Characters](problems/longest_substring.md)  
 
 ### 🔴Hard Problems  
