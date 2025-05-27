@@ -13,16 +13,13 @@
 ## 🏆 Solved Problems
 ### 🟢Easy Problems  
 🟢[Two Sum](Easy/Two_Sum)  
-🟢[Palindrome Number](problems/palindrome_number.md)  
-🟢[Roman to Integer](problems/roman_to_integer.md)  
 
 ### 🟡Medium Problems  
 🟡[Add Two Numbers](Medium/Add_Two_Numbers)  
-🟡[Longest Substring Without Repeating Characters](problems/longest_substring.md)  
+🟡[Longest Substring Without Repeating Characters](Medium/Longest_Substring_Without_Repeating_Characters)  
 
 ### 🔴Hard Problems  
-🔴[Median of Two Sorted Arrays](problems/median_sorted_arrays.md)  
-🔴[Merge k Sorted Lists](problems/merge_k_sorted_lists.md)  
+🔴[Median of Two Sorted Arrays](Hard/Median_of_Two_Sorted_Arrays)  
 
 ---
 
