@@ -5,7 +5,7 @@
 📝 Problem Description
 > Given a string s, find the length of the longest substring without duplicate characters.
 
-✔️ The substring must be continuous, not just a subsequence. ✔️ The input string may contain letters, digits, symbols, and spaces.
+✔️ The substring must be continuous, not just a subsequence. <br>✔️ The input string may contain letters, digits, symbols, and spaces.
 
 📌 Test Cases:
 ```C++
