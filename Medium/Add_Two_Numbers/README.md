@@ -1,4 +1,4 @@
-<h1 align="center">🔹 2. Add Two Numbers</h1>
+<h1 align="center">🟡2. Add Two Numbers</h1>
 
 <div align="center"> <strong>Status:</strong> ✅Solved <br> <strong>Difficulty:</strong> 🟡Medium <br> <strong>Topics:</strong> Linked List, Math <br> </div>
 
