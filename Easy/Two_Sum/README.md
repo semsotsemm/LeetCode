@@ -1,4 +1,4 @@
-<h1 align="center">🔹 1. Two Sum</h1>
+<h1 align="center">🟢1. Two Sum</h1>
 
 <div align="center">
   <strong>Status:</strong> ✅ Solved  <br>
