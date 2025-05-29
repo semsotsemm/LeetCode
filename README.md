@@ -14,7 +14,8 @@
 ### 🟢Easy Problems  
 🟢[Two Sum](Easy/Two_Sum)  
 🟢[Divisible and Non-divisible Sums Difference](Easy/Divisible_and_Non-divisible_Sums_Difference)    
-🟢[Palindrome Number](Easy/Palindrome_Number)  
+🟢[Palindrome Number](Easy/Palindrome_Number)    
+🟢[Longest Common Prefix](Easy/Longest_Common_Prefix)  
 
 ### 🟡Medium Problems  
 🟡[Add Two Numbers](Medium/Add_Two_Numbers)  
