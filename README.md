@@ -13,11 +13,13 @@
 ## 🏆 Solved Problems
 ### 🟢Easy Problems  
 🟢[Two Sum](Easy/Two_Sum)  
-🟢[Divisible and Non-divisible Sums Difference](Easy/Divisible_and_Non-divisible_Sums_Difference)  
+🟢[Divisible and Non-divisible Sums Difference](Easy/Divisible_and_Non-divisible_Sums_Difference)    
+🟢[Palindrome Number](Easy/Palindrome_Number)  
 
 ### 🟡Medium Problems  
 🟡[Add Two Numbers](Medium/Add_Two_Numbers)  
-🟡[Longest Substring Without Repeating Characters](Medium/Longest_Substring_Without_Repeating_Characters)  
+🟡[Longest Substring Without Repeating Characters](Medium/Longest_Substring_Without_Repeating_Characters)    
+🟡[String to Integer(atoi)](Medium/String_to_Integer_(atoi))  
 
 ### 🔴Hard Problems  
 🔴[Median of Two Sorted Arrays](Hard/Median_of_Two_Sorted_Arrays)  
