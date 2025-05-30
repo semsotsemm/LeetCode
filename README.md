@@ -23,7 +23,7 @@
 🟡[String to Integer(atoi)](Medium/String_to_Integer_(atoi))  
 
 ### 🔴Hard Problems  
-🔴[Median of Two Sorted Arrays](Hard/Median_of_Two_Sorted_Arrays)  
+🔴[Maximizing nodes after merging two trees](Hard/Maximizing_nodes_after_merging_two_trees)  
 
 ---
 
