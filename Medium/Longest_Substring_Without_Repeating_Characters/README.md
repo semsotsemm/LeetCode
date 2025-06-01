@@ -1,6 +1,6 @@
-<h1 align="center">🟡3. Longest Substring Without Repeating Characters</h1>
+<h1 align="center">🟡Longest Substring Without Repeating Characters</h1>
 
-<div align="center"> <strong>Status:</strong> ✅ Solved <br> <strong>Difficulty:</strong> 🟡 Medium <br> <strong>Topics:</strong> String, Sliding Window, Hash Table <br> </div>
+<div align="center"> <strong>Status:</strong> ✅ Solved <br> <strong>Difficulty:</strong> 🟡Medium <br> <strong>Topics:</strong> String, Sliding Window, Hash Table <br> </div>
 
 📝 Problem Description
 > Given a string s, find the length of the longest substring without duplicate characters.
