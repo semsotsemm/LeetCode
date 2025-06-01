@@ -1,4 +1,4 @@
-<h1 align="center">🟢2. Divisible and Non-divisible Sums Difference</h1>
+<h1 align="center">🟢Divisible and Non-divisible Sums Difference</h1>
 
 <div align="center"> <strong>Status:</strong> ✅ Solved <br> <strong>Difficulty:</strong> 🟢 Easy <br> <strong>Topics:</strong> Math, Iteration <br> </div>
 
