@@ -1,4 +1,4 @@
-<h1 align="center">🟡8. String to Integer (atoi)</h1>
+<h1 align="center">🟡String to Integer (atoi)</h1>
 
 <div align="center"> 
 <strong>Status:</strong> ✅ Solved <br> 
