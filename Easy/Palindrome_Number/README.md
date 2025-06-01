@@ -1,4 +1,4 @@
-<h1 align="center">🟢9. Palindrome Number</h1>
+<h1 align="center">🟢Palindrome Number</h1>
 
 <div align="center">
   <strong>Status:</strong> ✅ Solved  <br>
