@@ -25,6 +25,7 @@
 
 ### 🔴Hard Problems  
 🔴[Maximizing nodes after merging two trees](Hard/Maximizing_nodes_after_merging_two_trees)  
+🔴[Candy](Hard/Candy)  
 
 ---
 
