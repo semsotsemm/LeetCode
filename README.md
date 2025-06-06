@@ -17,6 +17,7 @@
 🟢[Palindrome Number](Easy/Palindrome_Number)    
 🟢[Longest Common Prefix](Easy/Longest_Common_Prefix)  
 🟢[Valid Parentheses](Easy/Valid_Parentheses)  
+🟢[Find the Index of the First Occurrence in a String](Easy/Find_the_Index_of_the_First_Occurrence_in_a_String)  
 
 ### 🟡Medium Problems  
 🟡[Add Two Numbers](Medium/Add_Two_Numbers)  
